@@ -13,8 +13,10 @@ iot-sensor-monitor-web/target/
 iot-sensor-monitor-web/.settings/
 iot-sensor-monitor-web/.classpath
 iot-sensor-monitor-web/.project
+iot-sensor-monitor-web/*.iml
 
 iot-sensor-monitor-core/target/
 iot-sensor-monitor-core/.settings/
 iot-sensor-monitor-core/.classpath
 iot-sensor-monitor-core/.project
+iot-sensor-monitor-core/*.iml
