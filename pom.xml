@@ -12,6 +12,4 @@
         <module>iot-sensor-monitor-web</module>
         <module>iot-sensor-monitor-core</module>
     </modules>
-
-
 </project>
